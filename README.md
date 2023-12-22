@@ -36,7 +36,7 @@ Document the steps taken to create the dashboard, explaining design choices and 
 - `Bike_Buyers_Complete.gsheet`: Google Sheets document containing the dashboard (Inside drive link).
 - `Dataset_Info_(Bike Buyers)`: Contains all the necessary information and the tasks to be performed.
   
-  Drive link here: [https://docs.google.com/spreadsheets/d/10XH9eQqahFDVJWCJxqYpGiZUyMN8tttm47NLN7OwvD0/edit?usp=sharing]
+  Drive link here: https://docs.google.com/spreadsheets/d/10XH9eQqahFDVJWCJxqYpGiZUyMN8tttm47NLN7OwvD0/edit?usp=sharing
 
 
 ### Dashboard Components
