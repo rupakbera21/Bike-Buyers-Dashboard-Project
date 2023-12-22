@@ -81,6 +81,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Contact
 
-For questions or feedback, contact [Rupak Bera] at [workwithrupak@gmail.com].
+For questions or feedback, contact Rupak Bera at [workwithrupak@gmail.com].
 
 Enjoy exploring the insights into the fascinating world of bike buyers!
