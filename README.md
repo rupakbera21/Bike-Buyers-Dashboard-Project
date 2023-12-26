@@ -70,7 +70,7 @@ If you'd like to contribute to the project, follow the standard GitHub workflow:
 
 ### Acknowledgments
 
-Special thanks to the business stakeholders for their collaboration and input throughout the project.
+Special thanks to PrepInsta for their collaboration and input throughout the project.
 
 ### License
 
